@@ -1,0 +1,5 @@
+---
+- import_playbook: tan/acl.yaml
+- import_playbook: tan/Backups.yaml
+- import_playbook: tan/ospf.yaml
+- import_playbook: tan/ipaddress.yaml
